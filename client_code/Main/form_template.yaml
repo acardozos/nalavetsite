@@ -1,0 +1,33 @@
+container: {type: ColumnPanel}
+components:
+- name: content_panel
+  properties: {}
+  type: ColumnPanel
+  layout_properties: {grid_position: 'EWQKTA,ZOOHSG', full_width_row: true}
+  components:
+  - name: aviso_flow_panel
+    properties: {align: center, background: '#a600ff', visible: true}
+    type: FlowPanel
+    layout_properties: {grid_position: 'GDTLUX,TKSJOL', full_width_row: true}
+    components:
+    - name: image_1
+      properties: {source: _/theme/logo-nalavet.png, height: '64', horizontal_align: center}
+      type: Image
+      layout_properties: {width: 128}
+    - name: aviso
+      properties: {align: center, border: '#0000ff', foreground: '#ffffff', visible: true,
+        text: loading... SOON!! WE'RE WORKING HERE., font_size: 32, spacing_above: small,
+        icon_align: left, italic: true, background: '#a600ff', bold: true, icon: 'fa:battery-2'}
+      type: Label
+      layout_properties: {width: null, expand: false}
+      data_bindings:
+      - {property: font, code: '', writeback: false}
+  - name: aviso_spacer
+    properties: {height: 32, visible: true}
+    type: Spacer
+    layout_properties: {grid_position: 'MRVPTS,SAGTCM', full_width_row: true}
+  - name: aviso_image
+    properties: {source: _/theme/working-dev-01.png, height: 279, visible: true}
+    type: Image
+    layout_properties: {grid_position: 'SQKOSX,PVAUQI', full_width_row: false}
+is_package: true
