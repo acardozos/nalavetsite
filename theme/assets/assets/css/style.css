@@ -115,7 +115,7 @@ ul {
 
 .navbar.top-bar {
     border-radius: 0;
-    padding: 16px 0;
+    padding: 46px 0 16px 0;
     z-index: 16;
 }
 
@@ -145,6 +145,9 @@ ul {
     color: #fff;
 }
 
+.top-bar .navbar-brand {
+  height: 92px;
+}
 .top-bar a.navbar-brand {
     color: #fff;
     font-size: 35px;
