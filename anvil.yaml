@@ -1,12 +1,33 @@
-allow_embedding: false
-package_name: NalaVetSite
-startup: {type: form, module: Main}
-name: NalaVetSite
-startup_form: null
-runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
-  server_spec: null}
-metadata: {title: Nala Veterinaria, logo_img: 'asset:logo-nalavet.png'}
 services:
 - source: /runtime/services/tables.yml
   client_config: {}
   server_config: {}
+startup: {type: form, module: Main}
+package_name: NalaVetSite
+allow_embedding: false
+name: NalaVetSite
+runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox,
+  server_spec: null}
+metadata: {title: 'Nala Veterinaria - Servicios Veterinarios, Alimentarios y de Cuidado
+    de Mascotas', logo_img: 'asset:logo-nalavet.png'}
+startup_form: null
+native_deps: {head_html: "<!-- Meta tag keywords -->\n<meta charset=\"utf-8\">\n<meta\
+    \ name=\"keywords\" content=\"Pet services, veterinary, pet medical services,\
+    \ dog care, cat care\" />\n<meta description=\"\">\n<meta author=\"Adolfo J Cardozo\
+    \ S. - AJCS Computing\">\n<!-- //Meta tag keywords -->\n\n<script>\n  addEventListener(\"\
+    load\", function () {\n    setTimeout(hideURLbar, 0);\n  }, false);\n  function\
+    \ hideURLbar() {\n    window.scrollTo(0, 1);\n  }\n</script>\n\n<title>Nala Veterinaria\
+    \ - Servicios Veterinarios, Alimentarios y de Cuidado de Mascotas</title>\n\n\
+    <!-- Favicon -->\n<link rel=\"icon\" type=\"image/x-icon\" href=\"_/theme/assets/images/favicon.ico\"\
+    \ />\n<link rel=\"shortcut icon\" type=\"image/icon\" href=\"_/theme/assets/images/favicon.ico\"\
+    \ />\n\n<!-- CSS Files -->\n<!-- Bootstrap core CSS -->\n<link rel=\"stylesheet\"\
+    \ type=\"text/css\" href=\"_/theme/assets/css/bootstrap.css\" />\n<!-- OWL carrousel\
+    \ -->\n<link rel=\"stylesheet\" href=\"_/theme/assets/css/blast.min.css\" />\n\
+    <!-- Custom CSS -->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"_/theme/assets/css/style.css\"\
+    \ media=\"all\" />\n\n<!-- Font awesome icons -->\n<link rel=\"stylesheet\" href=\"\
+    _/theme/assets/css/font-awesome.css\" />\n<!-- lightbox -->\n<link rel=\"stylesheet\"\
+    \ href=\"_/theme/assets/css/lightbox.css\">\n\n<!-- Font-Awesome-Icons-CSS -->\n\
+    <link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.css\"\
+    \ rel=\"stylesheet\">\n<link href=\"//fonts.googleapis.com/css?family=Oswald:300,400,500,600,700\"\
+    \ rel=\"stylesheet\">\n<link href=\"//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800\"\
+    \ rel=\"stylesheet\">\n"}

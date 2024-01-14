@@ -5,9 +5,57 @@ unique_ids:
   modules: {}
   server_modules: {}
   assets:
-    landpage.html: '1704730605702563347876683.0204'
-    logo-nalavet.png: '1704726681540568383086989.9998'
-    standard-page.html: EP3H6YCWJ7WFJSBCYN4M2DUQEQ36BJND
+    assets/fonts/fontawesome-webfont.woff2: 6BH6HGUZXS3OJJ3GT6JICHA7IXQ3EI56
+    assets/js/blast.min.js: XURQKCPZLVTMSIUNRFYDOY52J5VWOLON
+    assets/images/carousel1_img5.jpg: KLIPLMNDBJ6YMTHMFVEMKWBETHNA5TVP
+    assets/images/8.jpg: 36YBA564FHDD4U42OZXKPQ4L6354FTO6
+    assets/images/carousel1_img2.jpg: TS6NCN75A6TNB4D4VT4576R4EZARHINR
+    assets/images/favicon.ico: '1705191339036772316061579.1012'
+    assets/images/prev.png: EQG7RSBALMM777G3SEYXNRO2HRPO2AIG
+    assets/fonts/fontawesome-webfont.eot: N5TRX7M636FXOSMMUJXD7AUSYLYEX4U7
+    assets/images/page2_img6.jpg: LEUMUVB4MHQFFFGYTWALKMGJKRYAD5QW
+    assets/css/style.css: YWJ5YXTNOENFUMBEAWSJ6UHEDAH73T4C
+    assets/images/1.jpg: LNNUKH4KM6SZXGWE2OBG3VFSLMEJ2Y2J
+    assets/images/page2_img7.jpg: EA7LYW54TSIILSKT3UK6VCD4UTKHATC3
     theme.css: YCXQ4UUI4OI5QVQO2I4QGIWRMU6FJZ4Y
-    working-dev-01.png: '1704727282217698359460909.1681'
+    assets/images/page2_img2.jpg: KM7H5ZEW7N5GCMWBMSYZMGBS2XU5I2MR
+    assets/images/loader.gif: RTCIMTQ4IHOAUBSZRVJZV5TOQUSI4REH
+    assets/js/jquery-2.2.3.min.js: JIU6SLJPTFVU7I6J2TLFXHDH46OHW74I
+    assets/images/page2_img4.jpg: 4PTBTLXNNARQQWDEOXI4EHO7636OF5DZ
+    assets/js/bootstrap.js: MQ3TU3Z45HD75AU2PMC2LWEKKMIZDCEA
+    assets/js/move-top.js: RJN2GXFXTMBPN4IO452UUF3CAJSOGRUO
+    assets/images/carousel1_img7.jpg: ODBRX2AVEAXQMGCWODKS543OM6XTVLGA
+    assets/images/carousel1_img4.jpg: SMDR67QBBFAZKEX6DVCQRHUMEB5OK3YQ
     assets/.gitkeep: '1704731146060512790792169.19385'
+    assets/css/bootstrap.css: HKSAXNLOSOYBAUMZ3BYYFES24KNO3466
+    standard-page.html: EP3H6YCWJ7WFJSBCYN4M2DUQEQ36BJND
+    assets/images/33.jpg: 7IZTNG3LCRI462ZSQXEZG3ZCTQUJFBXA
+    assets/js/easing.js: A7Q4GTSRJYPFFMXAQTETKM66KE2UNMYR
+    assets/images/move_up.png: N7AP7XPY4RMBYTKLF4Q4X2YTMACR2FTR
+    assets/css/blast.min.css: 7KSCWHRMEFCJOEDWWPWTEAJYQJUM5WKA
+    assets/images/carousel1_img1.jpg: KTIIC77QCJPYXXEMJQE4LMIYBXINEQAG
+    assets/images/2.jpg: CRFLQSWOA64CUEUV5GYTSXHJQODYNUPB
+    assets/images/6.jpg: XOYUIGS5KDTBR75QLSDRBORNA3PY3F2E
+    assets/js/lightbox-plus-jquery.min.js: S46BPMCC353VJ56N64ZZRZXWS7EBZRS7
+    assets/images/logo-nalavet-128-tall-circ-nbg.png: 242NG7DNOUK2ARNCU2XB6GYA6RFDXHFC
+    assets/fonts/fontawesome-webfont.svg: 5X4Q4PS7NICX5FDXIFTO6OHUFSFOTP64
+    logo-nalavet.png: '1704726681540568383086989.9998'
+    assets/images/page2_img3.jpg: Z45WPXENZGF62H4SS43ICIFJNW4UBII2
+    assets/css/font-awesome.css: MKIAOWWBMSSWGQMH22P5NKLHYMZE47ZM
+    assets/images/close.png: G7JYPT3UHQ6SHSTUVW4T2DVZ63P3OOVC
+    assets/fonts/fontawesome-webfont.ttf: AJ6EJWYCBSHCCW5PFM25RRPMCKGOJMVV
+    assets/images/next.png: OUTVGQ7R7FOAM5JQYISNEBLKBR7WUE2Y
+    assets/js/boost.js: TGA5JA2FCKB6RWRJR52SZRYFPRSE3IJS
+    assets/fonts/FontAwesome.otf: 6B7NW7JTHP2XUBALSSEZ5SJ23FI57XUN
+    assets/images/3.jpg: YVYGEOMOXPVOZAM5J6VTYS6CM753XUUL
+    assets/fonts/fontawesome-webfont.woff: YIFB6GMKZT6VGMRGNRVDGZ4RX72L7BSI
+    assets/images/carousel1_img6.jpg: 2GGMY3KD3TD2B3BE3BXZHBKGTKGML4XR
+    assets/css/lightbox.css: AF6WATSSKZAOP4A6FXEVKPBBJRJUKCMI
+    landpage.html: '1704730605702563347876683.0204'
+    assets/images/page2_img5.jpg: JVBYPX2JBXRU5434YUIOU5EWXKJV3SAZ
+    assets/images/carousel1_img3.jpg: 55ZXY6FMY5SFOFREPH2KZN7JC2NPOTXR
+    assets/images/4.jpg: YVWCU4L2LAOHCQ2VYGZY5ZVHBPJWW7ZI
+    assets/images/carousel1_img8.jpg: SYV7NC6W4N5Y2RP7D6V3LOTKUQKFHY25
+    assets/images/7.jpg: PCSPH35TKHQ73VXNJNXMJPXQXEJHLRMI
+    working-dev-01.png: '1704727282217698359460909.1681'
+    assets/images/5.jpg: VBUERIMILEBHGHBOMMDLK3WN7L7VKHYN

@@ -1,12 +1,12 @@
 container: {type: ColumnPanel}
 components:
 - name: content_panel
-  properties: {}
+  properties: {visible: true}
   type: ColumnPanel
   layout_properties: {grid_position: 'EWQKTA,ZOOHSG', full_width_row: true}
   components:
   - name: aviso_flow_panel
-    properties: {align: center, background: '#a600ff', visible: true}
+    properties: {align: center, background: '#a600ff', visible: false}
     type: FlowPanel
     layout_properties: {grid_position: 'GDTLUX,TKSJOL', full_width_row: true}
     components:
@@ -23,11 +23,11 @@ components:
       data_bindings:
       - {property: font, code: '', writeback: false}
   - name: aviso_spacer
-    properties: {height: 32, visible: true}
+    properties: {height: 32, visible: false}
     type: Spacer
     layout_properties: {grid_position: 'MRVPTS,SAGTCM', full_width_row: true}
   - name: aviso_image
-    properties: {source: _/theme/working-dev-01.png, height: 279, visible: true}
+    properties: {source: _/theme/working-dev-01.png, height: 279, visible: false}
     type: Image
     layout_properties: {grid_position: 'SQKOSX,PVAUQI', full_width_row: false}
 is_package: true
